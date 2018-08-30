@@ -1,0 +1,4 @@
+name: EnotGenerator
+main: neotran.plugins.enotgenerator.Main
+author: neotran
+version: 1.0

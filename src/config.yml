@@ -1,0 +1,18 @@
+blockTypes:
+  COBBLESTONE: 80
+  GOLD_ORE: 10
+  IRON_ORE: 10
+levelChances:
+  '1':
+    IRON_ORE: 1
+    GOLD_ORE: 3
+  '5':
+    IRON_ORE: 3
+    GOLD_ORE: 5
+permChances:
+  vip_perm:
+    IRON_ORE: 1
+    GOLD_ORE: 3
+  some_perm:
+    IRON_ORE: 3
+    GOLD_ORE: 5
